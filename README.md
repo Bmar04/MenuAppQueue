@@ -1,1 +1,1 @@
- A simple application to take orders for a resturant, using multiple item classes, and an implementation of a queue from scratch. 
+ A simple application to take orders for a restaurant, using multiple item classes and implementing a queue from scratch. 
